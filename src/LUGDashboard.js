@@ -138,7 +138,7 @@ const LUGDashboard = () => {
     <div className="p-6 max-w-6xl mx-auto bg-gradient-to-br from-gray-100 to-gray-200 min-h-screen">
       <img src={logoImage} alt="LUG Logo" className="w-24 h-24 mx-auto mb-4 object-contain" />
       <h1 className="text-4xl font-bold mb-6 text-center text-gray-800 animate-bounce">
-        LUG Department Structure (2024-25)
+        LUG Departments (2024-25)
       </h1>
       <TerminalAnimation />
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
