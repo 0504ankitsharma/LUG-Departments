@@ -63,4 +63,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries, please contact the LUG team at [your-email@example.com](mailto:your-0504ankitsharma.com).
+For any queries, please contact the LUG team at [0504ankitsharma@gmail.com](mailto:0504ankitsharma@gmail.com).
