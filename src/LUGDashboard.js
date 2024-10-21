@@ -15,7 +15,7 @@ const departments = [
       name: 'Cyber Security',
       color: '#87CF3E',
       icon: Shield,
-      eb: ['Radhesh', 'Ankit'],
+      eb: ['Ankit', 'Radhesh'],
       core: ['Lakshita'],
       additional: ['Harsh', 'Jayant', 'Keshav', 'Aarzu', 'Suryanshu', 'Rupinderjeet kaur']
     },
